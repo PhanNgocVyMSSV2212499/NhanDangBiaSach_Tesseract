@@ -2,7 +2,7 @@
 
 ## 🚀 Giới thiệu
 
-Tôi xây dựng chương trình này để **tự động quét toàn bộ ảnh bìa sách** trong một thư mục, nhận dạng chữ (OCR) bằng **Tesseract**,
+xây dựng chương trình này để **tự động quét toàn bộ ảnh bìa sách** trong một thư mục, nhận dạng chữ (OCR) bằng **Tesseract**,
 Chương trình hỗ trợ **tiếng Việt + tiếng Anh**,
 
 ---
@@ -132,7 +132,7 @@ namespace Tesseract_NhanDienBiaSach
 
 ---
 
-## 🐞 Lỗi tôi đã gặp & Cách khắc phục
+## 🐞 Lỗi đã gặp & Cách khắc phục
 
 | Lỗi                             | Nguyên nhân                                      | Giải pháp                                                  |
 | ------------------------------- | ------------------------------------------------ | ---------------------------------------------------------- |
@@ -144,7 +144,7 @@ namespace Tesseract_NhanDienBiaSach
 
 ## 🎯 Kết quả
 
-- Tôi đã tự động hóa việc OCR hàng loạt ảnh bìa sách.
+- Tự động hóa việc OCR hàng loạt ảnh bìa sách,tuy nhiên 1 số bìa vẫn chưa nhận diện được đúng ,vẫn còn sai sót.
 - Lưu vào file .txt
 - Hỗ trợ song ngữ Việt + Anh.
 
