@@ -1,0 +1,8 @@
+# Ignore build files
+bin/
+obj/
+*.exe
+*.pdb
+
+# Ignore Visual Studio files
+.vs/
