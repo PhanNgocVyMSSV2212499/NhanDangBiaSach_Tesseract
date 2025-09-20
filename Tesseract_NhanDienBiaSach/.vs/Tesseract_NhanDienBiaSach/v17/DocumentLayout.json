@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Nam4HK1\\DoAnChuyenNganh\\Tessaract_OCR\\Tesseract_NhanDienBiaSach\\",
+  "WorkspaceRootPath": "D:\\Tessaract_OCR\\Tesseract_NhanDienBiaSach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DA0D3C2-7386-49F3-B2F0-C530F66B9D9A}|Tesseract_NhanDienBiaSach\\Tesseract_NhanDienBiaSach.csproj|d:\\nam4hk1\\doanchuyennganh\\tessaract_ocr\\tesseract_nhandienbiasach\\tesseract_nhandienbiasach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DA0D3C2-7386-49F3-B2F0-C530F66B9D9A}|Tesseract_NhanDienBiaSach\\Tesseract_NhanDienBiaSach.csproj|d:\\tessaract_ocr\\tesseract_nhandienbiasach\\tesseract_nhandienbiasach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DA0D3C2-7386-49F3-B2F0-C530F66B9D9A}|Tesseract_NhanDienBiaSach\\Tesseract_NhanDienBiaSach.csproj|solutionrelative:tesseract_nhandienbiasach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Nam4HK1\\DoAnChuyenNganh\\Tessaract_OCR\\Tesseract_NhanDienBiaSach\\Tesseract_NhanDienBiaSach\\Program.cs",
+              "DocumentMoniker": "D:\\Tessaract_OCR\\Tesseract_NhanDienBiaSach\\Tesseract_NhanDienBiaSach\\Program.cs",
               "RelativeDocumentMoniker": "Tesseract_NhanDienBiaSach\\Program.cs",
-              "ToolTip": "D:\\Nam4HK1\\DoAnChuyenNganh\\Tessaract_OCR\\Tesseract_NhanDienBiaSach\\Tesseract_NhanDienBiaSach\\Program.cs",
+              "ToolTip": "D:\\Tessaract_OCR\\Tesseract_NhanDienBiaSach\\Tesseract_NhanDienBiaSach\\Program.cs",
               "RelativeToolTip": "Tesseract_NhanDienBiaSach\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T11:46:33.943Z",
               "EditorCaption": ""

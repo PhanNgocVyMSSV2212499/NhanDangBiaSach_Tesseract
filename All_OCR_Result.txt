@@ -23,6 +23,12 @@ Wii NHÀ XUẤT BẢN TÓNGHƠ? - E LYÊN VAIN PHƯỚC dịch as
   
 
 
+📌 Số từ nhận diện: 50
+📌 Độ tin cậy trung bình: 83.00%
+📌 Thời gian xử lý: 1128 ms
+📌 Tốc độ: 44.32 từ/giây
+--------------------------------------------------
+
 ===== HanhTrinhVe PhuongDong.jpg =====
 zŸ.\:4b l ) ND) ING)
 NGUYEN PHONG
@@ -38,6 +44,12 @@ THE GIỚI
 
  
 
+
+📌 Số từ nhận diện: 18
+📌 Độ tin cậy trung bình: 57.00%
+📌 Thời gian xử lý: 1216 ms
+📌 Tốc độ: 14.79 từ/giây
+--------------------------------------------------
 
 ===== suc-manh-cua-su-tu-te-1174444.jpg =====
 NATIONAL BESTSELLER
@@ -58,6 +70,12 @@ Linda Kaplan Thaler
 Trinh Ngọc Minh d
 
 
+📌 Số từ nhận diện: 31
+📌 Độ tin cậy trung bình: 85.00%
+📌 Thời gian xử lý: 219 ms
+📌 Tốc độ: 141.23 từ/giây
+--------------------------------------------------
+
 ===== ToiDiHoc.jpg =====
 Nha giáo Ưu tú
 
@@ -75,6 +93,12 @@ nasussoinree— nhurhat giống trong ta..."
 
  
 
+
+📌 Số từ nhận diện: 21
+📌 Độ tin cậy trung bình: 78.00%
+📌 Thời gian xử lý: 222 ms
+📌 Tốc độ: 94.40 từ/giây
+--------------------------------------------------
 
 ===== ToiThayHoaVangTrenCoXanh.jpg =====
 nguyễn nhậtánh
@@ -96,6 +120,12 @@ truyện dai
 Brenna !
 
 
+📌 Số từ nhận diện: 18
+📌 Độ tin cậy trung bình: 70.00%
+📌 Thời gian xử lý: 297 ms
+📌 Tốc độ: 60.44 từ/giây
+--------------------------------------------------
+
 ===== TrietHocLenin.jpg =====
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 
@@ -106,3 +136,15 @@ GIAO TRINH
 NHA XUAT BAN CHÍNH TRI QUOC GIA SU THAT
 
 
+📌 Số từ nhận diện: 17
+📌 Độ tin cậy trung bình: 93.00%
+📌 Thời gian xử lý: 416 ms
+📌 Tốc độ: 40.83 từ/giây
+--------------------------------------------------
+
+===== TỔNG KẾT =====
+📌 Tổng số ảnh: 6
+📌 Tổng số từ: 155
+📌 Độ tin cậy trung bình: 77.67%
+📌 Tổng thời gian xử lý: 3918 ms
+📌 Tốc độ trung bình: 39.55 từ/giây
